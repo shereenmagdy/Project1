@@ -1,0 +1,358 @@
+
+nav{
+  background-color: rgb(45, 211, 211);
+  display:inline-block;
+}
+.nav li{
+  display: inline-block;
+}
+.container a{
+  color: white;
+  text-decoration: none;
+}
+.container li{
+  padding: 16px;
+}
+.nav a:hover{
+  color: black;
+}
+.brand{
+  font-size: 24px;
+}
+.first-sec{
+  background-image: url('C:/Users/start/Desktop/Mentor/temp/assets/images/header.jpeg');
+  height: 500px;
+}
+.first-sec-content{
+  padding: 150px;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.circles{
+  padding-left:43%;
+}
+h1{
+  text-align: center;
+  color: white;
+}
+h3{
+  text-align: center;
+  color: rgb(45, 211, 211);
+}
+.fa-circle{
+  color: rgb(45, 211, 211);
+}
+.social-icons{
+  width: 20px;
+  height: 20px;
+}
+.btn{
+  border-radius: 50px;
+  border-color: rgb(172, 169, 169);
+  color: rgb(95, 91, 91);
+  text-align: center;
+}
+.btn-know{
+  padding-left: 45%;
+}
+.btn-main{
+  color: white;
+  width: 130px;
+}
+.second-sec{
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.icon-num{
+  background-image: url('C:/Users/start/Desktop/Mentor/temp/assets/images/counter.jpg');
+  height: 350px;
+}
+.icon-num-content{
+padding-left: 150px;
+color: white;
+background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.third-sec{
+  padding: 20px;
+}
+.persentage{
+  text-align: left;
+  display: inline;
+}
+.forth-sec{
+  background-color: rgb(232, 228, 228);
+}
+p{
+  text-align: center;
+}
+.num{
+  color: white;
+}
+h6{
+  text-align: center;
+}
+.icon-num-1{
+  padding: 110px;
+}
+.icon-num-2{
+  padding: 110px;
+}
+.icon-num-3{
+  padding: 110px;
+}
+.icon-num-4{
+  padding: 110px;
+}
+.forth-sec-content{
+  padding-left: 12%;
+}
+.btn-portfolio{
+  padding-left: 25%;
+}
+#facebook{
+  color: white;
+}
+.fifth-sec{
+  background-image: url('C:/Users/start/Desktop/Mentor/temp/assets/images/service.jpg');
+}
+.fifth-sec p{
+color: white;
+}
+.first-sqr{
+  border: 2px rgb(45, 211, 211) solid;
+  margin: 10px;
+  text-align: center;
+}
+.squares
+{
+  padding-left: 300px;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.6);
+}
+.ay7aga{
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.squares p{
+  font-size: 15px;
+}
+.squares h5{
+  color: rgb(45, 211, 211);
+}
+.title{
+  display: none;
+  text-align: center;
+  color: white;
+  padding-top: 130px;
+  font-size: 30px;
+}
+#pic1{
+  background-image:url('C:/Users/start/Desktop/Mentor/temp/assets/images/portofolio_1.jpeg') ;
+  height: 300px;
+  width: 400px;
+}
+#pic1:hover{
+  background: rgb(45, 211, 211);
+  cursor: pointer;
+}
+#pic1:hover div.title{
+ display: block;
+}
+#pic2{
+  background-image:url('C:/Users/start/Desktop/Mentor/temp/assets/images/portofolio_2.jpeg') ;
+  height: 300px;
+  width: 400px;
+}
+#pic2:hover{
+  background: rgb(45, 211, 211);
+  cursor: pointer;
+}
+#pic2:hover div.title{
+ display: block;
+}
+#pic3{
+  background-image:url('C:/Users/start/Desktop/Mentor/temp/assets/images/portofolio_3.jpeg') ;
+  height: 300px;
+  width: 400px;
+}
+#pic3:hover{
+  background: rgb(45, 211, 211);
+  cursor: pointer;
+}
+#pic3:hover div.title{
+ display: block;
+}
+#pic4{
+  background-image:url('C:/Users/start/Desktop/Mentor/temp/assets/images/portofolio_4.jpeg') ;
+  height: 300px;
+  width: 400px;
+}
+#pic4:hover{
+  background: rgb(45, 211, 211);
+  cursor: pointer;
+}
+#pic4:hover div.title{
+ display: block;
+}
+.team-img img{
+  width: 250px;
+  height: 350px;
+}
+.team-img h6{
+  color: rgb(45, 211, 211);
+}
+.shadow-text{
+  box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2) ;
+}
+.team-img{
+  padding: 10px;
+}
+.team{
+  padding-left: 230px;
+}
+#team_1{
+ 
+  background-image:url('C:/Users/start/Desktop/Mentor/temp/assets/images/team_1.jpeg') ;
+  width: 250px;
+  height: 350px;
+}
+#team_1:hover{
+  background: rgb(45, 211, 211);
+  cursor: pointer;
+}
+#team_1:hover div.title{
+ display: block;
+}
+#team_1 p{
+  font-size: 15px;
+}
+.seventh-sec{
+  background-image:url('C:/Users/start/Desktop/Mentor/temp/assets/images/message.jpg') ;
+  height: 350px;
+}
+.seventh-sec-content{
+  padding: 117px;
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.6);
+}
+.seventh-sec h4{
+  color: white;
+  text-align: center;
+}
+.price-card_1{
+  border: 2px solid rgb(233, 228, 228);
+  width:300px;
+  margin: 30px;
+}
+.price{
+  background-color:rgb(45, 211, 211) ;
+  text-align: center;
+  height: 90px;
+}
+.price p{
+  color: white;
+  padding-top: 15px;
+}
+.price b{
+  font-size: 40px;
+}
+.type p{
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 2px;
+  padding-top: 5px;
+}
+.type{
+  background-color:rgb(34, 144, 144) ;
+  height: 35px;
+}
+.price-plan-card{
+  padding-left: 250px;
+}
+.content button{
+  background-color: rgb(45, 211, 211);
+  border: 0;
+}
+.btn-know-last{
+  padding-left: 80px;
+ padding-bottom: 20px;
+}
+.content p,hr{
+margin: 20px;
+font-size: smaller;
+}
+.clients{
+  background-image:url('C:/Users/start/Desktop/Mentor/temp/assets/images/clients.jpg') ;
+}
+.clients-content{
+  background-color: rgb(0, 0, 0);
+  background-color: rgba(0, 0, 0, 0.6);
+}
+.clients p{
+  color: white;
+}
+.clients h5{
+  color: rgb(45, 211, 211);
+  text-align: center;
+}
+.clients h2{
+  color: white;
+  text-align: center;
+}
+.clients span{
+  padding-left: 1530px;
+}
+.form input,textarea{
+  text-align: center;
+  border: 3px solid rgb(233, 228, 228);
+}
+.form button{
+  background-color: rgb(86, 84, 84);
+  color: white;
+  border: 0;
+  border-radius: 5px;
+  width: 910px;
+  height: 30px;
+}
+.form{
+  padding-left: 300px;
+}
+::placeholder{
+  color: black;
+}
+.contact h5{
+  color:rgb(45, 211, 211) ;
+}
+.box-last{
+  padding-left: 250px;
+}
+.box-last span{
+  padding-left: 50px;
+}
+footer{
+  background-color: rgb(45, 211, 211);
+  height: 100px;
+}
+.footer p{
+  color: white;
+  text-align: center;
+  font-size: 10px;
+}
+.footer span{
+  color: white;
+}
+.last-icon{
+  color: rgb(34, 161, 161);
+}
+.circles-last{
+  padding: 20px;
+  padding-left: 680px;
+}
+#file{
+  width: 600px;
+  
+}
+
